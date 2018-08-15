@@ -3,19 +3,19 @@
 Keep this as a pinned tab. ctrl+click on any link.   
    
 [New repository](https://github.com/new)   
-[Snippetstudy template](https://raw.githubusercontent.com/Souwy/JS-Reference/master/Snippetstudy-template.md)   
-[Reading code template](https://raw.githubusercontent.com/Souwy/JS-Reference/master/Reading-code-template.md)   
+[Snippetstudy template](https://raw.githubusercontent.com/Celine-Elewa/JS-Reference/master/Snippetstudy-template.md)   
+[Reading code template](https://raw.githubusercontent.com/Celine-Elewa/JS-Reference/master/Reading-code-template.md)   
    
 ## Human-helpers
 Console logs, comments, anything that doesn't actually do the logic, they don't influence the outcome but help you interact with your code.
 
 ## Primitive types, coercion and operators
-https://github.com/Souwy/Snippetstudy_primitive-types    
-https://github.com/Souwy/Snippetstudy_primitives_String-method_CharAt 
+https://github.com/Celine-Elewa/Snippetstudy_primitive-types    
+https://github.com/Celine-Elewa/Snippetstudy_primitives_String-method_CharAt 
 ## Variables
-https://github.com/Souwy/Snippetstudy_Hoisting   
+https://github.com/Celine-Elewa/Snippetstudy_Hoisting   
 ## Block scope
-https://github.com/Souwy/Snippetstudy_Scope    
+https://github.com/Celine-Elewa/Snippetstudy_Scope    
 ## Lexical scope
 
 ## Conditionals
